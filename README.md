@@ -1,11 +1,43 @@
-<div>
-  <a href="https://github.com/bruno-ce10">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bruno-ce10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-ce10&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg ">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg ">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg ">
-</div>
+# Olá! 👋 Eu sou o Bruno
 
+🎓 Estudante de Análise e Desenvolvimento de Sistemas.
+
+💻 Desenvolvedor Front-End em formação, apaixonado por tecnologia e por criar interfaces modernas, responsivas e intuitivas.
+
+Atualmente estou aprimorando meus conhecimentos em HTML, CSS, JavaScript, React e TypeScript por meio de estudos e projetos práticos.
+
+---
+
+## 🚀 Tecnologias
+
+- HTML5
+- CSS3
+- JavaScript
+- React (básico)
+- TypeScript (básico)
+- Git
+- GitHub
+
+---
+
+## 📚 Atualmente estudando
+
+- React
+- TypeScript
+- Boas práticas de Front-End
+
+---
+
+## 🎯 Objetivo
+
+Conquistar minha primeira oportunidade como Desenvolvedor Front-End, aplicando meus conhecimentos e evoluindo continuamente como profissional.
+
+---
+
+## 📫 Contato
+
+📧 seuemail@email.com
+
+💼 LinkedIn (em breve)
+
+🐙 GitHub
