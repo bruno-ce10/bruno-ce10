@@ -36,7 +36,7 @@ Conquistar minha primeira oportunidade como Desenvolvedor Front-End, aplicando m
 
 ## 📫 Contato
 
-📧 seuemail@email.com
+📧 bruno.ce.poa@gmail.com
 
 💼 LinkedIn (em breve)
 
